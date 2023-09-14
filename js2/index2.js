@@ -1,0 +1,1 @@
+alert('Tabriklimiz! Siz ro\'yxatdan o\'tingiz💌')
